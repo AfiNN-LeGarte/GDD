@@ -1,0 +1,48 @@
+{
+	"nodes":[
+		{"id":"795942ddecbdebe7","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Колонисты.md","x":440,"y":-260,"width":400,"height":400},
+		{"id":"a8345c4852fe49b1","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Колония.md","x":-280,"y":-260,"width":400,"height":400},
+		{"id":"8f919b1e1db7b1e1","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Торговля.md","x":440,"y":360,"width":400,"height":400},
+		{"id":"3b05003499792472","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Фракции.md","x":440,"y":1000,"width":400,"height":400},
+		{"id":"d1bf32696f82d897","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Навыки.md","x":1200,"y":-1040,"width":400,"height":400},
+		{"id":"f1e9ae3f29dcd770","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Нужды.md","x":1200,"y":-540,"width":400,"height":400},
+		{"id":"40f3c3086726c8f6","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Черты характера.md","x":1200,"y":-40,"width":400,"height":400},
+		{"id":"13ec483a8c0ab6f3","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Рейды.md","x":1200,"y":480,"width":400,"height":400},
+		{"id":"c2485336c4e1e992","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Работы.md","x":440,"y":-1440,"width":400,"height":400},
+		{"id":"4dcd7f9ec9913ccd","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Здоровье.md","x":1200,"y":1000,"width":400,"height":400},
+		{"id":"39e3a27f9e53634c","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Фауна.md","x":-280,"y":800,"width":400,"height":400},
+		{"id":"1c0cf131c8abade3","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Биомы.md","x":-280,"y":280,"width":400,"height":400},
+		{"id":"5ef9c4f27d017c3e","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Оружие.md","x":-1440,"y":300,"width":400,"height":400},
+		{"id":"ca009f7431ccfa64","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Постройки.md","x":-1440,"y":-260,"width":400,"height":400},
+		{"id":"079d5272fa127c79","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Броня.md","x":-1440,"y":-800,"width":400,"height":400},
+		{"id":"0a5b2e57caab31fb","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Богатство.md","x":-280,"y":-1200,"width":400,"height":400},
+		{"id":"087904ebc685e362","type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Рейды.md","x":-840,"y":-1200,"width":400,"height":400},
+		{"id":"162d49a06bbe5f07","x":-1440,"y":880,"width":400,"height":400,"type":"file","file":"03 - Projects/Игровая разработка/GDD/Detail Documents/Mechanics/Материалы.md"}
+	],
+	"edges":[
+		{"id":"21a6de94f5df0a3e","fromNode":"795942ddecbdebe7","fromSide":"left","toNode":"a8345c4852fe49b1","toSide":"right"},
+		{"id":"0bb64c4eb96b0a7c","fromNode":"795942ddecbdebe7","fromSide":"right","toNode":"d1bf32696f82d897","toSide":"left"},
+		{"id":"3b32b7869d531ad2","fromNode":"795942ddecbdebe7","fromSide":"right","toNode":"f1e9ae3f29dcd770","toSide":"left"},
+		{"id":"030569b9dfb87c50","fromNode":"795942ddecbdebe7","fromSide":"right","toNode":"40f3c3086726c8f6","toSide":"left"},
+		{"id":"c37e3f510f880785","fromNode":"a8345c4852fe49b1","fromSide":"top","toNode":"0a5b2e57caab31fb","toSide":"bottom"},
+		{"id":"a66fc6ce8f821489","fromNode":"795942ddecbdebe7","fromSide":"top","toNode":"c2485336c4e1e992","toSide":"bottom"},
+		{"id":"eb9f74cf846669c5","fromNode":"d1bf32696f82d897","fromSide":"top","toNode":"c2485336c4e1e992","toSide":"right"},
+		{"id":"364f62864ba19b33","fromNode":"3b05003499792472","fromSide":"top","toNode":"8f919b1e1db7b1e1","toSide":"bottom"},
+		{"id":"5aa03c5da14e7754","fromNode":"795942ddecbdebe7","fromSide":"bottom","toNode":"8f919b1e1db7b1e1","toSide":"top"},
+		{"id":"1787371e9a92a441","fromNode":"0a5b2e57caab31fb","fromSide":"left","toNode":"087904ebc685e362","toSide":"right"},
+		{"id":"cc64752fcd0aff2f","fromNode":"087904ebc685e362","fromSide":"bottom","toNode":"a8345c4852fe49b1","toSide":"left"},
+		{"id":"b5ae97695b8afcb4","fromNode":"795942ddecbdebe7","fromSide":"right","toNode":"13ec483a8c0ab6f3","toSide":"left"},
+		{"id":"3d075894fc6371bd","fromNode":"795942ddecbdebe7","fromSide":"right","toNode":"4dcd7f9ec9913ccd","toSide":"left"},
+		{"id":"66dfd2552665f257","fromNode":"1c0cf131c8abade3","fromSide":"top","toNode":"a8345c4852fe49b1","toSide":"bottom"},
+		{"id":"4db03e554da4e106","fromNode":"39e3a27f9e53634c","fromSide":"top","toNode":"1c0cf131c8abade3","toSide":"bottom"},
+		{"id":"28f445431e8797fe","fromNode":"079d5272fa127c79","fromSide":"right","toNode":"a8345c4852fe49b1","toSide":"left"},
+		{"id":"aaa87238cc30dd87","fromNode":"ca009f7431ccfa64","fromSide":"right","toNode":"a8345c4852fe49b1","toSide":"left"},
+		{"id":"a1eb660f0d888ed6","fromNode":"5ef9c4f27d017c3e","fromSide":"right","toNode":"a8345c4852fe49b1","toSide":"left"},
+		{"id":"f865b2a3852a8032","fromNode":"162d49a06bbe5f07","fromSide":"right","toNode":"a8345c4852fe49b1","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"1db01ce6a1bba0bb"
+	}
+}
