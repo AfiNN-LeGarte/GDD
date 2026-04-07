@@ -29,4 +29,4 @@
 
 ---
 
-[[Game.excalidraw|Игровой цикл]]
+[[../Detail Documents/Game.excalidraw|Игровой цикл]]
